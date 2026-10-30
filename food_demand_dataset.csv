@@ -1,0 +1,1001 @@
+food_item,day,price,previous_demand,promotion,temperature,demand
+Burger,Monday,80,179,0,22,189
+Pasta,Friday,148,171,1,35,207
+Sandwich,Monday,138,22,1,38,58
+Pasta,Sunday,246,149,1,21,190
+Sandwich,Thursday,263,142,1,29,172
+Biryani,Friday,89,99,0,37,96
+Sandwich,Friday,281,189,0,27,199
+Burger,Friday,87,186,1,31,224
+Burger,Monday,193,163,1,33,180
+Biryani,Friday,240,198,0,27,186
+Pasta,Friday,210,118,0,28,109
+Burger,Tuesday,90,155,0,25,153
+Biryani,Wednesday,112,43,0,23,37
+French Fries,Friday,217,27,0,35,34
+Pasta,Saturday,220,163,1,30,214
+Pasta,Sunday,240,75,1,25,121
+Biryani,Saturday,139,53,0,39,56
+Burger,Thursday,155,105,0,25,108
+Pizza,Monday,242,196,1,36,213
+Biryani,Friday,135,76,1,30,96
+French Fries,Tuesday,144,185,1,23,216
+Burger,Tuesday,176,92,1,31,136
+Pasta,Monday,295,195,0,28,196
+Sandwich,Wednesday,182,178,1,26,196
+Sandwich,Friday,223,198,0,38,210
+Pizza,Sunday,165,195,0,32,190
+French Fries,Thursday,225,20,1,39,40
+Pizza,Saturday,215,200,0,34,204
+Sandwich,Friday,90,194,0,29,188
+Pizza,Monday,221,150,0,23,152
+Pasta,Tuesday,238,159,1,20,198
+Sandwich,Thursday,300,59,0,34,46
+Pasta,Friday,115,141,0,22,150
+Pizza,Sunday,100,173,1,28,225
+Pasta,Sunday,101,69,1,22,109
+French Fries,Tuesday,242,156,0,28,166
+Sandwich,Wednesday,290,145,1,31,184
+Sandwich,Tuesday,215,125,1,38,163
+French Fries,Wednesday,157,71,0,27,73
+Pizza,Friday,247,103,0,39,107
+Biryani,Wednesday,249,136,1,36,152
+Biryani,Monday,300,145,1,26,178
+French Fries,Friday,164,117,1,25,157
+Burger,Saturday,108,41,1,25,73
+Biryani,Friday,217,131,1,37,162
+Biryani,Tuesday,136,145,0,33,140
+Pasta,Thursday,137,87,0,33,90
+Biryani,Monday,83,191,1,23,233
+Burger,Saturday,233,64,1,38,105
+Burger,Friday,103,135,1,37,151
+Sandwich,Monday,227,124,0,37,121
+Sandwich,Tuesday,220,59,0,30,71
+Sandwich,Tuesday,139,187,1,37,216
+Pasta,Monday,169,106,0,20,110
+Burger,Monday,89,63,0,32,71
+French Fries,Monday,261,161,1,21,191
+Sandwich,Wednesday,124,78,0,40,85
+Burger,Monday,171,145,1,21,166
+Pizza,Wednesday,266,127,0,33,140
+Biryani,Wednesday,99,146,0,31,146
+Sandwich,Saturday,153,164,1,29,194
+French Fries,Monday,233,32,1,39,53
+Pizza,Saturday,197,26,1,33,63
+Pasta,Tuesday,107,23,1,25,61
+Pasta,Sunday,95,24,0,37,23
+Burger,Tuesday,92,197,1,39,226
+Pizza,Saturday,134,93,0,37,114
+Sandwich,Sunday,272,47,0,39,62
+Biryani,Saturday,298,54,1,20,104
+Biryani,Wednesday,83,159,0,22,165
+French Fries,Wednesday,90,196,0,37,182
+Sandwich,Sunday,119,124,1,27,155
+Biryani,Thursday,221,75,1,36,106
+French Fries,Thursday,137,166,1,23,209
+Sandwich,Wednesday,277,177,0,22,173
+Pizza,Tuesday,232,94,0,20,82
+Pasta,Saturday,273,76,1,40,131
+Biryani,Saturday,104,118,1,25,168
+Sandwich,Tuesday,113,150,0,31,155
+Sandwich,Sunday,247,62,1,20,102
+Pizza,Tuesday,178,155,1,24,198
+French Fries,Monday,85,113,1,33,138
+French Fries,Thursday,200,192,0,24,205
+Pasta,Friday,159,117,0,39,116
+French Fries,Saturday,104,124,0,31,124
+Pizza,Wednesday,141,84,0,37,76
+Biryani,Thursday,258,97,1,36,125
+Pizza,Sunday,287,184,1,34,224
+Pasta,Monday,182,185,0,31,188
+Pasta,Friday,96,33,0,23,34
+Biryani,Tuesday,228,115,1,35,152
+Pizza,Sunday,215,157,1,21,197
+Sandwich,Tuesday,252,114,0,35,112
+Biryani,Sunday,149,173,1,38,218
+Pizza,Sunday,176,199,0,33,198
+Biryani,Thursday,247,118,1,31,150
+Burger,Sunday,185,199,1,31,247
+Biryani,Sunday,194,148,1,35,183
+French Fries,Saturday,283,179,1,20,209
+Sandwich,Tuesday,215,110,1,31,153
+Biryani,Friday,179,72,0,26,57
+Burger,Tuesday,103,160,1,38,190
+Sandwich,Tuesday,80,71,0,34,69
+Sandwich,Monday,293,33,1,28,52
+French Fries,Friday,126,126,0,38,140
+Burger,Sunday,242,153,0,20,160
+Sandwich,Tuesday,202,150,1,39,177
+Sandwich,Thursday,227,129,1,21,155
+Pizza,Tuesday,99,49,0,31,42
+Sandwich,Tuesday,82,33,1,29,58
+Pasta,Sunday,269,168,1,38,207
+Burger,Wednesday,223,69,1,29,87
+Biryani,Sunday,300,193,1,31,245
+French Fries,Thursday,224,94,1,33,123
+French Fries,Thursday,117,193,1,34,212
+French Fries,Wednesday,219,74,0,38,65
+Sandwich,Tuesday,293,27,0,23,17
+Sandwich,Friday,145,141,0,27,132
+Sandwich,Monday,155,134,0,35,141
+Pizza,Monday,191,45,1,27,70
+Pizza,Friday,202,112,1,26,144
+Burger,Monday,232,162,0,38,150
+Sandwich,Friday,115,193,1,26,208
+Biryani,Saturday,182,163,1,38,209
+Sandwich,Wednesday,109,133,0,30,144
+Biryani,Wednesday,290,40,0,32,32
+Biryani,Thursday,289,157,0,28,155
+French Fries,Saturday,289,193,0,28,192
+Sandwich,Saturday,166,179,1,40,216
+Sandwich,Monday,132,30,0,30,29
+Pizza,Monday,286,139,0,34,152
+Sandwich,Thursday,227,163,1,32,180
+Biryani,Sunday,182,71,0,33,96
+Pizza,Friday,298,38,0,39,47
+Biryani,Tuesday,184,144,1,27,189
+Sandwich,Friday,149,82,0,24,97
+Biryani,Thursday,98,39,0,37,24
+Pasta,Thursday,257,39,0,31,46
+Sandwich,Saturday,126,117,0,36,117
+Pasta,Sunday,199,99,1,31,137
+Burger,Wednesday,161,65,1,26,104
+Sandwich,Tuesday,170,184,1,32,204
+French Fries,Saturday,281,176,0,39,178
+Burger,Tuesday,178,35,0,24,37
+Sandwich,Thursday,152,198,1,29,228
+Burger,Sunday,185,177,0,25,184
+Pasta,Thursday,171,27,1,39,44
+Burger,Sunday,285,85,0,30,92
+Pasta,Monday,107,96,1,24,137
+Burger,Tuesday,138,62,1,34,91
+French Fries,Friday,186,78,1,31,111
+French Fries,Tuesday,297,190,0,29,195
+Burger,Sunday,265,22,0,22,18
+Pizza,Saturday,154,187,1,36,230
+Burger,Thursday,176,98,0,28,98
+Sandwich,Friday,225,151,0,34,152
+Sandwich,Tuesday,217,147,1,29,190
+Biryani,Friday,192,74,0,30,67
+Sandwich,Wednesday,202,136,1,20,164
+Pizza,Friday,194,76,1,35,116
+Pasta,Monday,193,94,0,32,99
+Biryani,Wednesday,271,108,0,24,110
+French Fries,Wednesday,225,83,1,20,110
+Pasta,Wednesday,196,119,0,28,123
+Burger,Friday,132,155,0,30,140
+Burger,Thursday,85,80,0,21,95
+Pasta,Wednesday,159,59,0,22,54
+Biryani,Wednesday,286,41,0,33,44
+French Fries,Saturday,295,200,1,32,252
+Biryani,Tuesday,244,171,0,40,158
+Biryani,Saturday,94,90,1,29,121
+Pizza,Friday,186,163,0,28,150
+Sandwich,Wednesday,293,91,0,39,81
+French Fries,Monday,204,40,0,32,38
+Pizza,Sunday,293,127,1,33,168
+Pizza,Monday,278,156,0,29,148
+French Fries,Saturday,267,193,0,27,204
+Biryani,Monday,244,48,0,39,44
+Pizza,Monday,286,43,0,27,53
+French Fries,Thursday,294,33,0,21,18
+Sandwich,Friday,201,133,1,35,160
+Burger,Friday,186,185,1,24,229
+Burger,Thursday,113,45,0,36,58
+Burger,Friday,111,87,1,30,132
+Pizza,Friday,150,192,0,30,186
+Pasta,Friday,126,26,0,34,18
+French Fries,Tuesday,103,119,1,36,151
+French Fries,Wednesday,120,174,1,36,212
+Pasta,Sunday,194,40,1,31,68
+Biryani,Saturday,175,45,0,30,55
+French Fries,Thursday,183,22,1,20,62
+Burger,Sunday,136,85,0,26,103
+Burger,Friday,101,79,1,23,94
+Burger,Friday,158,179,1,36,210
+French Fries,Thursday,159,182,0,34,184
+French Fries,Tuesday,210,196,1,27,220
+Sandwich,Sunday,80,133,1,22,179
+Pasta,Monday,81,200,1,34,218
+French Fries,Thursday,227,94,1,25,113
+Biryani,Sunday,93,161,1,36,200
+French Fries,Saturday,222,85,0,34,108
+Sandwich,Friday,136,186,0,39,181
+Burger,Thursday,140,198,0,20,205
+Burger,Saturday,226,88,0,21,108
+Burger,Thursday,150,67,0,29,75
+Sandwich,Saturday,236,101,1,23,137
+Pizza,Tuesday,256,95,1,30,130
+French Fries,Saturday,150,112,0,32,112
+Burger,Wednesday,129,93,0,39,108
+French Fries,Wednesday,272,100,1,28,123
+Biryani,Friday,204,148,1,22,183
+Biryani,Sunday,198,59,0,24,67
+Pizza,Friday,238,159,0,26,151
+Pasta,Saturday,205,52,0,28,64
+Pasta,Saturday,253,76,1,32,129
+Pizza,Thursday,80,56,1,39,72
+Sandwich,Wednesday,164,103,1,29,130
+Pizza,Monday,143,47,1,33,69
+Burger,Monday,264,175,0,30,171
+Pasta,Saturday,128,153,1,33,198
+Burger,Thursday,101,175,1,35,214
+Sandwich,Friday,189,169,1,31,201
+Sandwich,Sunday,177,117,0,28,116
+Pasta,Thursday,181,69,1,37,106
+Pizza,Tuesday,97,76,1,24,107
+Sandwich,Tuesday,167,158,1,21,191
+French Fries,Saturday,213,31,0,39,47
+Sandwich,Thursday,255,129,0,37,144
+Burger,Friday,289,79,1,39,106
+Burger,Monday,146,160,0,28,167
+Sandwich,Sunday,180,79,0,31,87
+French Fries,Saturday,127,152,1,36,177
+French Fries,Monday,168,187,0,32,181
+Pizza,Tuesday,129,176,1,31,218
+Pasta,Tuesday,127,136,0,22,131
+French Fries,Thursday,163,64,1,29,98
+Pizza,Thursday,290,135,1,35,154
+Burger,Thursday,207,113,0,27,105
+Burger,Tuesday,289,57,0,20,72
+Burger,Wednesday,265,141,1,21,159
+Burger,Saturday,277,197,1,21,239
+French Fries,Wednesday,125,177,1,34,214
+Burger,Tuesday,292,172,0,26,159
+Biryani,Wednesday,141,161,0,21,160
+Burger,Sunday,273,159,1,40,214
+Burger,Monday,185,73,1,34,107
+Sandwich,Friday,173,184,1,28,221
+Pizza,Saturday,118,137,1,37,165
+Pasta,Saturday,114,44,0,30,61
+Sandwich,Wednesday,278,116,1,37,132
+Biryani,Friday,273,115,0,21,118
+French Fries,Sunday,288,48,0,36,58
+Burger,Friday,96,27,0,36,21
+French Fries,Friday,242,116,0,31,125
+Biryani,Thursday,155,141,1,24,160
+Biryani,Sunday,150,128,1,31,177
+Biryani,Saturday,84,113,0,28,109
+Sandwich,Saturday,194,28,0,32,39
+Burger,Friday,217,187,0,27,179
+Sandwich,Monday,212,174,1,25,217
+Pizza,Tuesday,247,44,0,35,45
+Pizza,Saturday,141,61,0,24,85
+Sandwich,Friday,139,25,0,35,39
+Biryani,Sunday,88,117,0,20,116
+French Fries,Monday,87,76,1,34,94
+Biryani,Sunday,161,107,0,32,126
+Pizza,Sunday,260,116,1,37,153
+Pasta,Thursday,141,109,0,29,105
+Burger,Saturday,197,197,1,37,230
+Pasta,Monday,202,40,1,38,73
+Pasta,Saturday,114,39,0,32,64
+Burger,Sunday,252,193,1,35,237
+Pasta,Tuesday,110,82,0,38,69
+Burger,Saturday,255,136,0,38,140
+Sandwich,Saturday,91,103,1,34,150
+Biryani,Sunday,250,192,0,36,202
+Sandwich,Thursday,155,137,1,38,164
+Burger,Saturday,251,38,1,40,85
+French Fries,Sunday,147,121,1,29,164
+Burger,Monday,200,88,1,30,132
+Pizza,Monday,275,37,0,28,50
+Pasta,Tuesday,236,114,0,36,123
+Biryani,Tuesday,210,196,0,23,209
+French Fries,Tuesday,86,54,1,28,95
+Sandwich,Monday,262,56,1,33,95
+French Fries,Monday,100,87,1,25,113
+Biryani,Sunday,236,137,0,38,138
+Sandwich,Wednesday,178,94,1,38,138
+Sandwich,Wednesday,264,176,0,29,163
+Biryani,Friday,198,95,1,35,131
+Burger,Thursday,232,29,0,37,41
+Burger,Saturday,85,116,0,38,118
+Sandwich,Wednesday,230,135,0,27,134
+Biryani,Wednesday,163,137,1,30,164
+Biryani,Wednesday,275,112,0,39,115
+Burger,Friday,229,152,0,31,162
+Burger,Monday,296,121,0,38,120
+Biryani,Tuesday,81,134,1,20,172
+Pizza,Sunday,181,177,1,22,212
+Pizza,Sunday,298,123,0,21,139
+Pizza,Tuesday,143,103,0,28,94
+French Fries,Friday,260,164,1,29,203
+Burger,Tuesday,228,30,0,22,15
+Biryani,Monday,208,199,1,27,225
+French Fries,Sunday,252,95,0,34,93
+French Fries,Thursday,87,44,0,31,46
+Biryani,Sunday,292,42,1,23,84
+Biryani,Friday,124,155,1,33,186
+French Fries,Saturday,82,129,1,32,167
+Biryani,Sunday,158,87,1,26,123
+French Fries,Saturday,300,52,1,33,98
+Pasta,Wednesday,81,156,1,22,200
+Pasta,Tuesday,176,121,1,37,159
+Burger,Thursday,172,101,1,21,121
+Biryani,Tuesday,161,122,1,30,161
+French Fries,Thursday,132,125,0,31,132
+Biryani,Monday,245,128,0,28,119
+Burger,Thursday,266,116,0,24,106
+Pizza,Thursday,90,166,0,31,152
+French Fries,Wednesday,162,21,0,37,14
+Pasta,Tuesday,281,75,1,27,95
+Pizza,Tuesday,88,53,0,36,43
+Sandwich,Sunday,185,78,0,32,95
+Pasta,Tuesday,181,146,0,31,147
+Pizza,Thursday,255,177,0,39,173
+French Fries,Saturday,274,142,1,21,170
+French Fries,Thursday,177,43,1,32,75
+Burger,Saturday,186,60,1,27,102
+French Fries,Thursday,148,72,0,23,67
+Pizza,Friday,160,81,0,24,92
+Pasta,Monday,157,36,0,23,43
+Burger,Wednesday,227,39,0,37,26
+Pizza,Thursday,228,43,1,37,85
+Biryani,Tuesday,105,187,1,29,217
+Sandwich,Tuesday,103,92,1,22,114
+Pasta,Thursday,151,142,1,22,181
+Pizza,Friday,195,195,1,28,217
+Sandwich,Saturday,154,193,0,29,199
+Pizza,Friday,299,67,0,40,62
+Pizza,Monday,102,160,1,29,184
+French Fries,Wednesday,230,27,1,27,42
+Pasta,Wednesday,222,61,0,38,74
+Biryani,Friday,155,73,0,25,73
+French Fries,Sunday,201,71,0,32,73
+Biryani,Friday,284,84,0,20,69
+French Fries,Tuesday,102,163,0,29,177
+Pasta,Monday,193,86,0,33,84
+Pasta,Saturday,269,68,1,30,122
+Biryani,Monday,264,133,0,25,127
+Biryani,Monday,89,62,0,26,72
+Biryani,Tuesday,210,191,1,30,222
+Sandwich,Wednesday,198,137,1,23,169
+Sandwich,Saturday,233,94,1,20,122
+Sandwich,Monday,171,164,0,35,150
+Sandwich,Friday,191,96,1,23,132
+French Fries,Friday,108,98,0,24,96
+Sandwich,Thursday,159,182,1,31,227
+Sandwich,Monday,91,55,0,24,69
+Pasta,Sunday,156,148,0,23,164
+Pasta,Saturday,247,128,0,34,142
+Pizza,Monday,179,22,1,33,57
+Biryani,Friday,276,128,0,38,137
+Biryani,Monday,237,23,1,32,46
+Biryani,Friday,122,169,1,35,206
+Pasta,Friday,255,33,1,39,64
+Burger,Sunday,82,199,0,35,205
+Sandwich,Saturday,155,20,1,26,50
+Sandwich,Wednesday,264,70,0,36,60
+Pasta,Friday,262,78,1,25,109
+Pasta,Thursday,112,197,1,20,242
+Sandwich,Monday,195,20,1,30,47
+French Fries,Sunday,88,73,1,38,121
+Pizza,Thursday,192,142,1,40,167
+Pasta,Monday,191,83,1,28,105
+Biryani,Tuesday,83,83,0,26,78
+French Fries,Thursday,98,43,1,32,61
+Burger,Thursday,100,154,1,32,189
+Pizza,Monday,116,52,1,26,67
+Pizza,Saturday,115,69,1,28,110
+Pizza,Saturday,292,60,1,30,98
+Biryani,Friday,131,96,0,29,89
+Burger,Sunday,283,113,1,25,161
+Sandwich,Saturday,210,195,1,29,248
+French Fries,Thursday,96,98,1,26,137
+Biryani,Thursday,185,112,1,21,128
+French Fries,Wednesday,84,55,0,31,43
+Pizza,Friday,259,153,1,20,186
+Burger,Sunday,255,90,0,25,89
+French Fries,Monday,179,143,1,27,187
+French Fries,Friday,220,73,1,24,111
+Pizza,Sunday,215,100,1,24,145
+Burger,Thursday,217,82,1,38,97
+Burger,Sunday,289,94,1,26,149
+Biryani,Friday,99,36,0,37,43
+Pizza,Friday,106,187,0,22,200
+Pizza,Saturday,254,173,1,36,207
+French Fries,Tuesday,135,101,0,27,96
+Biryani,Friday,182,123,1,36,147
+Sandwich,Tuesday,291,177,1,40,222
+Pizza,Tuesday,262,28,0,23,38
+French Fries,Tuesday,184,120,0,36,123
+Burger,Sunday,207,48,0,21,58
+Biryani,Friday,99,164,1,29,195
+Burger,Tuesday,231,44,1,39,77
+Pasta,Monday,209,109,1,27,133
+French Fries,Wednesday,214,177,0,31,191
+French Fries,Wednesday,155,34,1,25,74
+Pasta,Friday,232,184,0,37,180
+Sandwich,Tuesday,248,44,1,38,77
+Burger,Monday,197,93,0,26,107
+Burger,Friday,298,37,1,20,78
+Sandwich,Saturday,126,58,0,26,53
+Sandwich,Monday,92,146,1,39,185
+Burger,Sunday,236,111,0,23,134
+French Fries,Monday,102,158,0,20,154
+Burger,Thursday,141,157,1,36,187
+Pasta,Sunday,135,22,0,34,27
+Pasta,Friday,262,67,0,20,66
+Burger,Sunday,185,113,0,28,116
+Pizza,Tuesday,108,176,0,26,171
+Pasta,Friday,267,137,0,24,132
+Biryani,Monday,167,25,0,23,14
+Burger,Friday,144,26,1,21,42
+Pasta,Wednesday,93,71,1,20,105
+Biryani,Thursday,177,192,0,25,189
+Sandwich,Tuesday,170,120,1,38,148
+Pasta,Tuesday,252,48,1,20,85
+Pasta,Thursday,199,46,1,23,83
+Pizza,Saturday,82,175,1,23,229
+French Fries,Saturday,261,100,1,36,138
+Pasta,Tuesday,295,164,1,29,182
+Pizza,Monday,275,194,0,21,181
+Sandwich,Wednesday,244,25,1,35,59
+Pasta,Sunday,272,197,1,32,241
+Pasta,Friday,258,31,0,21,46
+Pasta,Tuesday,265,92,0,27,77
+Pizza,Wednesday,263,57,0,21,44
+French Fries,Sunday,102,90,1,39,118
+Burger,Monday,217,109,1,33,136
+Biryani,Thursday,113,110,0,31,110
+Pasta,Monday,150,46,1,25,80
+French Fries,Sunday,186,22,1,40,50
+Pasta,Tuesday,232,96,1,21,118
+Pasta,Monday,114,191,0,27,185
+Pizza,Saturday,202,102,1,29,151
+Biryani,Friday,291,151,1,35,183
+Burger,Friday,290,148,1,36,175
+Pasta,Thursday,194,115,0,37,129
+Burger,Saturday,268,52,1,36,79
+Pasta,Monday,274,109,1,33,142
+Biryani,Saturday,216,115,0,29,127
+Burger,Monday,269,137,0,26,149
+French Fries,Friday,126,127,0,27,115
+Biryani,Friday,244,158,1,28,178
+Biryani,Wednesday,233,192,1,23,213
+Pasta,Friday,228,81,0,36,66
+Pasta,Thursday,117,191,0,22,201
+Pasta,Sunday,139,111,0,24,107
+Biryani,Friday,139,194,0,23,188
+Sandwich,Monday,80,116,1,34,150
+Pasta,Saturday,123,144,0,27,146
+Pizza,Monday,163,31,1,21,55
+Biryani,Wednesday,232,44,0,36,55
+Burger,Thursday,135,185,1,21,205
+French Fries,Saturday,210,121,1,23,156
+Sandwich,Sunday,246,78,0,29,88
+Pizza,Saturday,208,160,1,34,196
+Burger,Tuesday,121,91,0,26,80
+Sandwich,Monday,235,99,1,24,134
+Pizza,Sunday,91,23,1,27,55
+Sandwich,Monday,140,155,1,26,196
+Sandwich,Wednesday,199,66,0,29,53
+Biryani,Friday,213,186,0,23,176
+Sandwich,Wednesday,130,192,1,39,209
+Pasta,Monday,127,77,0,30,92
+Biryani,Friday,233,113,1,20,128
+Burger,Monday,106,193,1,22,212
+Pizza,Saturday,238,123,0,40,146
+Biryani,Monday,260,152,1,22,187
+Burger,Monday,180,88,1,22,111
+Biryani,Friday,190,20,1,33,64
+French Fries,Sunday,96,38,1,33,76
+Sandwich,Saturday,119,72,1,20,104
+Pizza,Tuesday,219,142,1,32,163
+French Fries,Saturday,259,36,0,36,35
+Pasta,Saturday,191,123,0,26,135
+Pizza,Wednesday,221,89,1,37,104
+Pizza,Saturday,251,184,1,34,227
+Burger,Tuesday,80,139,1,28,163
+Biryani,Tuesday,282,58,1,30,81
+Pasta,Wednesday,222,70,1,39,92
+Pizza,Monday,191,113,0,22,114
+French Fries,Thursday,134,136,1,27,171
+Sandwich,Monday,258,151,0,31,141
+Biryani,Sunday,88,117,0,29,117
+Pizza,Sunday,128,38,0,33,58
+Pasta,Monday,157,94,0,21,107
+Pizza,Monday,107,117,0,23,109
+Pasta,Thursday,259,193,1,36,223
+French Fries,Monday,259,126,1,30,150
+French Fries,Thursday,245,137,1,34,155
+Pizza,Monday,109,190,1,29,225
+French Fries,Thursday,90,131,1,22,152
+Pasta,Thursday,258,83,1,33,123
+Sandwich,Friday,96,61,1,27,85
+Pizza,Saturday,123,134,0,34,154
+Biryani,Sunday,197,78,0,22,76
+Sandwich,Thursday,130,36,1,38,56
+Pizza,Monday,137,88,0,32,73
+Pasta,Sunday,220,135,1,21,161
+French Fries,Monday,250,97,0,33,97
+Biryani,Monday,262,62,1,20,83
+French Fries,Sunday,137,141,0,39,143
+Burger,Thursday,248,42,0,23,39
+Burger,Monday,182,88,0,24,80
+Pizza,Saturday,210,47,0,35,47
+Burger,Wednesday,179,82,1,39,111
+Pizza,Saturday,200,109,1,25,151
+Biryani,Thursday,147,46,0,32,49
+Pizza,Monday,107,86,0,27,100
+Sandwich,Thursday,190,65,0,33,68
+French Fries,Monday,275,103,1,20,119
+Biryani,Saturday,262,25,1,24,64
+Biryani,Monday,149,100,1,29,129
+Sandwich,Tuesday,138,181,0,26,179
+French Fries,Sunday,286,151,1,32,193
+Sandwich,Friday,93,177,1,26,201
+French Fries,Sunday,282,158,1,36,199
+Burger,Saturday,197,76,1,37,112
+Pizza,Sunday,110,150,0,37,175
+Pasta,Thursday,170,194,1,35,226
+Sandwich,Friday,119,107,1,38,147
+Burger,Sunday,236,119,0,28,116
+Sandwich,Sunday,158,48,1,38,86
+Burger,Friday,89,67,1,37,87
+Burger,Wednesday,110,51,0,34,37
+Sandwich,Tuesday,122,165,0,25,158
+French Fries,Monday,164,30,1,40,54
+Sandwich,Friday,215,51,1,33,80
+Pasta,Friday,242,106,1,33,126
+French Fries,Wednesday,105,81,0,33,87
+French Fries,Sunday,101,94,0,27,116
+Sandwich,Sunday,216,139,1,26,178
+Pasta,Tuesday,149,72,0,40,66
+French Fries,Wednesday,277,129,1,22,156
+Pizza,Friday,261,140,0,38,136
+French Fries,Monday,180,34,0,33,24
+Sandwich,Friday,247,34,0,24,35
+Burger,Sunday,288,127,0,36,134
+Pasta,Saturday,231,34,1,27,73
+Pasta,Tuesday,166,97,1,32,141
+Pasta,Monday,103,51,0,31,37
+Pasta,Saturday,269,82,1,40,109
+Burger,Sunday,169,31,1,33,74
+Burger,Wednesday,219,34,0,40,19
+Burger,Wednesday,84,61,1,21,83
+Pasta,Sunday,89,173,1,20,226
+Pizza,Sunday,276,195,1,35,228
+French Fries,Tuesday,243,191,1,30,217
+Pasta,Friday,146,115,0,28,108
+Pizza,Thursday,166,34,1,36,67
+French Fries,Thursday,198,83,1,39,106
+Biryani,Tuesday,132,96,0,20,88
+French Fries,Thursday,188,164,0,36,171
+Biryani,Wednesday,180,30,1,38,62
+Burger,Tuesday,140,126,1,34,167
+Burger,Tuesday,160,67,0,40,74
+Sandwich,Sunday,145,81,1,32,108
+Pizza,Thursday,163,27,1,23,63
+Burger,Tuesday,227,109,1,36,149
+Pasta,Thursday,147,154,0,27,154
+Pasta,Monday,203,32,0,32,45
+Pizza,Tuesday,228,129,0,32,129
+Pizza,Saturday,124,153,0,30,164
+Biryani,Thursday,165,97,1,37,122
+Pizza,Thursday,103,184,0,35,188
+Pizza,Monday,203,23,0,25,23
+Sandwich,Friday,165,35,1,36,53
+Pasta,Monday,174,105,0,29,119
+French Fries,Wednesday,299,106,1,37,139
+Sandwich,Wednesday,229,125,0,22,115
+French Fries,Saturday,147,82,1,30,128
+Biryani,Tuesday,140,24,0,38,33
+Burger,Saturday,183,139,1,21,172
+Pasta,Wednesday,163,90,0,33,100
+Biryani,Sunday,220,59,1,27,113
+Biryani,Tuesday,212,32,0,24,40
+Pizza,Saturday,89,89,1,24,115
+Pizza,Monday,101,135,0,37,140
+Biryani,Friday,226,73,1,30,96
+Pasta,Thursday,237,135,0,40,145
+Sandwich,Tuesday,154,150,0,30,153
+Biryani,Saturday,167,180,0,24,184
+Pizza,Wednesday,98,99,1,29,142
+French Fries,Thursday,230,81,1,21,97
+Biryani,Tuesday,166,88,0,26,94
+Biryani,Wednesday,235,20,0,27,18
+Sandwich,Saturday,226,153,0,20,169
+Sandwich,Saturday,228,195,0,37,195
+French Fries,Wednesday,118,122,1,23,162
+Pasta,Monday,82,36,1,26,57
+Biryani,Wednesday,203,195,1,29,226
+Pizza,Monday,160,121,1,32,151
+French Fries,Thursday,153,29,0,24,29
+Sandwich,Saturday,84,65,0,35,85
+Pizza,Wednesday,80,128,0,36,143
+Burger,Sunday,260,152,0,25,156
+Burger,Tuesday,148,59,1,39,92
+Pizza,Tuesday,143,134,1,28,177
+Biryani,Thursday,186,176,0,28,175
+Pasta,Monday,168,88,0,24,94
+Sandwich,Tuesday,239,23,1,21,45
+Pizza,Wednesday,145,162,0,28,172
+Biryani,Wednesday,244,94,0,33,95
+French Fries,Sunday,213,137,0,21,134
+Pasta,Thursday,177,96,0,21,101
+French Fries,Tuesday,110,62,0,38,76
+Pasta,Monday,211,48,1,27,74
+Biryani,Monday,234,70,0,36,85
+Biryani,Saturday,252,162,1,32,208
+Sandwich,Monday,294,74,0,35,67
+Pasta,Friday,112,89,0,34,80
+Pasta,Saturday,245,197,1,28,250
+Sandwich,Monday,146,89,1,25,129
+Pasta,Saturday,161,83,0,33,91
+French Fries,Thursday,212,45,0,37,43
+French Fries,Saturday,270,181,0,29,205
+Pizza,Thursday,229,61,1,24,93
+Pizza,Tuesday,139,118,0,35,131
+French Fries,Tuesday,200,72,1,34,106
+Burger,Monday,237,133,1,31,174
+Sandwich,Thursday,161,183,0,39,172
+French Fries,Tuesday,199,152,0,38,162
+Pizza,Thursday,283,129,1,25,162
+Sandwich,Monday,127,129,1,32,148
+Burger,Sunday,237,148,1,37,180
+French Fries,Saturday,218,113,0,23,114
+Pizza,Monday,217,135,0,25,127
+French Fries,Wednesday,243,57,1,23,95
+French Fries,Monday,143,67,1,21,91
+Pasta,Friday,83,87,1,37,111
+French Fries,Monday,290,123,1,26,153
+Sandwich,Tuesday,121,87,0,33,77
+Burger,Friday,271,86,1,31,122
+Sandwich,Wednesday,224,174,0,38,178
+Burger,Friday,83,120,0,26,121
+Pasta,Tuesday,253,88,1,27,120
+Burger,Monday,203,167,0,40,182
+Burger,Monday,161,170,0,33,165
+Burger,Sunday,231,131,0,31,141
+Sandwich,Saturday,94,128,1,32,170
+French Fries,Tuesday,197,121,1,22,164
+Burger,Wednesday,262,76,1,34,103
+Pizza,Wednesday,83,78,0,22,68
+French Fries,Wednesday,120,48,1,27,66
+Pizza,Thursday,135,150,1,32,180
+Burger,Saturday,234,48,0,28,69
+Sandwich,Thursday,112,55,1,29,77
+Burger,Monday,224,139,0,21,149
+Sandwich,Tuesday,200,86,1,31,103
+Biryani,Saturday,188,111,0,31,127
+Burger,Friday,159,59,1,27,78
+Pizza,Tuesday,126,100,0,20,86
+Biryani,Saturday,204,127,1,26,169
+Biryani,Saturday,95,198,0,39,210
+Pasta,Sunday,146,180,1,32,221
+Biryani,Saturday,167,142,0,39,167
+Pasta,Tuesday,273,163,0,38,151
+French Fries,Monday,187,127,0,27,123
+Biryani,Tuesday,240,65,0,38,57
+Sandwich,Thursday,250,45,1,35,81
+French Fries,Wednesday,172,25,1,33,50
+Pasta,Friday,292,145,0,29,136
+Pizza,Thursday,292,153,1,21,183
+Burger,Wednesday,115,78,0,31,89
+French Fries,Thursday,146,180,0,38,187
+Burger,Friday,193,153,1,30,170
+Biryani,Sunday,135,175,0,21,184
+French Fries,Sunday,120,67,1,28,101
+Biryani,Sunday,181,141,1,36,184
+French Fries,Monday,133,84,1,25,105
+Pasta,Saturday,86,46,0,39,59
+French Fries,Wednesday,163,28,1,22,61
+Pasta,Wednesday,116,36,0,31,32
+Sandwich,Friday,205,81,0,30,73
+Pasta,Thursday,101,80,1,22,97
+Biryani,Monday,191,95,0,25,93
+French Fries,Thursday,148,104,0,32,115
+Sandwich,Tuesday,136,59,0,26,56
+French Fries,Sunday,192,108,0,38,109
+French Fries,Sunday,164,110,1,24,147
+Pizza,Thursday,156,38,1,35,70
+French Fries,Sunday,100,122,1,30,164
+Sandwich,Friday,220,137,1,30,162
+French Fries,Monday,211,71,1,28,102
+Sandwich,Saturday,148,126,1,22,158
+Burger,Thursday,178,176,0,29,187
+Pasta,Tuesday,185,180,0,27,178
+Burger,Friday,215,24,1,37,54
+Pizza,Wednesday,211,63,1,29,93
+Pizza,Tuesday,144,142,0,20,133
+Biryani,Monday,176,44,1,24,80
+French Fries,Monday,126,71,0,40,83
+French Fries,Tuesday,150,188,0,22,192
+French Fries,Sunday,168,21,0,24,20
+Pizza,Thursday,208,154,0,39,151
+Pizza,Tuesday,143,47,0,32,34
+Pasta,Friday,165,48,0,28,37
+Biryani,Monday,175,63,1,24,91
+French Fries,Friday,188,139,0,37,126
+Pizza,Monday,84,58,0,33,65
+Pizza,Saturday,85,135,0,27,156
+Pizza,Thursday,258,169,1,36,197
+Burger,Tuesday,96,72,1,33,93
+Burger,Saturday,111,38,0,29,54
+Biryani,Monday,207,187,1,23,206
+Burger,Monday,110,128,0,25,114
+Pasta,Monday,140,170,0,36,164
+Pasta,Monday,211,144,0,24,141
+Sandwich,Monday,109,124,0,33,111
+Biryani,Saturday,181,155,0,35,178
+Burger,Friday,93,135,1,23,172
+Sandwich,Thursday,84,71,1,37,112
+Sandwich,Wednesday,159,156,0,31,155
+French Fries,Sunday,181,78,0,29,85
+Pasta,Friday,172,136,0,26,123
+Pizza,Monday,141,50,0,25,41
+Burger,Sunday,274,95,0,30,101
+Burger,Thursday,264,170,0,29,168
+Biryani,Monday,292,117,0,39,106
+Pizza,Monday,295,20,0,29,31
+Biryani,Sunday,246,76,0,20,75
+Pasta,Thursday,153,102,1,28,135
+Sandwich,Friday,213,192,0,32,198
+Biryani,Sunday,149,134,1,33,187
+French Fries,Saturday,255,110,1,30,164
+Biryani,Saturday,80,90,0,38,102
+French Fries,Saturday,219,133,1,34,162
+Burger,Friday,219,112,1,36,143
+Biryani,Tuesday,299,131,1,40,157
+Biryani,Wednesday,150,43,0,38,28
+Sandwich,Saturday,142,175,0,23,184
+Pizza,Saturday,255,164,1,23,214
+Pasta,Tuesday,210,154,1,34,174
+Pizza,Thursday,189,120,0,28,124
+Pizza,Sunday,281,167,1,21,221
+Burger,Thursday,226,84,0,27,88
+Sandwich,Saturday,102,199,1,36,240
+French Fries,Friday,110,186,0,37,196
+Biryani,Tuesday,177,39,0,26,27
+Pizza,Thursday,250,75,1,38,94
+French Fries,Sunday,87,43,1,38,91
+Pizza,Thursday,278,108,0,34,116
+Sandwich,Sunday,282,178,1,39,206
+French Fries,Saturday,121,42,0,23,53
+Pizza,Saturday,153,69,0,22,83
+Pizza,Saturday,158,107,1,37,143
+Pizza,Saturday,208,164,0,30,168
+Pasta,Monday,162,84,0,26,76
+Biryani,Friday,187,108,1,28,142
+Burger,Friday,186,33,0,37,41
+French Fries,Sunday,153,72,0,21,86
+French Fries,Saturday,195,78,0,21,76
+Burger,Sunday,204,22,0,29,34
+French Fries,Monday,168,91,0,23,92
+French Fries,Wednesday,128,143,1,20,184
+Sandwich,Monday,111,36,1,28,51
+Sandwich,Sunday,163,155,1,40,200
+Pizza,Friday,117,73,0,38,68
+Pizza,Saturday,188,153,0,23,156
+Pasta,Friday,240,169,1,27,190
+French Fries,Thursday,197,116,0,31,118
+French Fries,Friday,153,195,0,36,197
+Pizza,Wednesday,162,58,0,35,48
+French Fries,Friday,136,159,0,25,152
+Pizza,Friday,243,26,0,37,30
+Sandwich,Thursday,125,23,1,33,43
+French Fries,Wednesday,138,74,1,29,89
+Pizza,Friday,185,144,1,20,159
+Pasta,Saturday,150,103,1,39,130
+Biryani,Friday,104,36,1,33,78
+Biryani,Friday,299,121,0,29,125
+Biryani,Tuesday,242,145,0,31,148
+Pizza,Thursday,129,43,1,39,70
+French Fries,Sunday,195,133,0,24,130
+Pizza,Saturday,296,60,0,23,68
+Burger,Saturday,87,20,0,28,27
+Burger,Monday,90,24,0,24,33
+Biryani,Wednesday,206,123,0,40,126
+French Fries,Friday,115,35,0,23,23
+Burger,Saturday,154,150,1,37,175
+Pizza,Wednesday,284,48,1,22,66
+Biryani,Thursday,203,21,1,35,44
+Sandwich,Tuesday,261,148,0,29,149
+Burger,Monday,210,111,0,28,104
+French Fries,Thursday,247,135,1,25,180
+Biryani,Wednesday,160,29,0,28,25
+Pizza,Thursday,121,119,0,32,134
+Sandwich,Saturday,239,44,1,36,89
+Pasta,Saturday,137,104,1,40,145
+Burger,Monday,210,55,0,23,41
+Pasta,Thursday,264,148,1,28,164
+Burger,Thursday,223,199,1,28,241
+Sandwich,Tuesday,159,31,1,34,50
+Burger,Saturday,85,57,1,39,89
+French Fries,Wednesday,165,154,0,30,140
+Sandwich,Monday,118,25,0,39,15
+Sandwich,Friday,216,31,1,22,52
+Pizza,Wednesday,136,127,1,23,156
+Pasta,Wednesday,81,148,0,26,152
+Sandwich,Tuesday,160,20,0,26,29
+Biryani,Sunday,199,190,0,36,189
+Biryani,Sunday,119,73,1,32,113
+Pizza,Wednesday,294,53,0,30,40
+Pasta,Tuesday,143,132,1,38,165
+Sandwich,Sunday,161,68,0,35,87
+Sandwich,Wednesday,281,120,1,37,163
+Pizza,Wednesday,177,147,0,24,147
+Pizza,Thursday,230,55,0,24,57
+French Fries,Saturday,143,84,1,26,126
+Burger,Wednesday,83,160,0,33,156
+Sandwich,Monday,278,192,0,22,189
+Sandwich,Sunday,127,102,1,33,145
+Pizza,Wednesday,178,84,0,28,73
+Pasta,Monday,102,130,1,40,157
+Sandwich,Monday,251,47,1,26,88
+Sandwich,Sunday,291,172,1,28,197
+Sandwich,Thursday,239,68,0,36,70
+Biryani,Friday,144,198,1,40,242
+Pasta,Wednesday,132,30,1,27,73
+Pizza,Thursday,180,196,1,24,214
+Burger,Saturday,136,35,1,31,90
+French Fries,Monday,265,147,1,26,185
+Biryani,Friday,91,168,0,24,166
+Pasta,Saturday,205,79,1,27,121
+French Fries,Monday,138,90,1,33,128
+Sandwich,Thursday,230,92,0,21,83
+Biryani,Thursday,217,138,1,38,155
+Pizza,Thursday,141,108,0,35,103
+Sandwich,Friday,90,47,1,29,76
+French Fries,Monday,107,122,1,28,142
+Pasta,Saturday,251,36,1,39,69
+Burger,Sunday,254,76,1,22,111
+Sandwich,Monday,223,24,0,30,28
+Pasta,Thursday,161,192,0,27,189
+Burger,Friday,191,98,1,20,131
+Biryani,Tuesday,95,106,1,25,143
+Burger,Monday,243,65,0,21,62
+French Fries,Monday,185,64,1,33,102
+Sandwich,Friday,201,138,0,22,147
+Sandwich,Tuesday,159,39,0,28,41
+Sandwich,Wednesday,286,21,0,30,29
+Sandwich,Friday,138,185,1,21,225
+Biryani,Monday,290,78,0,21,75
+Pasta,Wednesday,184,92,1,35,107
+Pasta,Friday,137,134,0,27,142
+Burger,Monday,140,46,1,27,88
+Biryani,Thursday,247,86,1,36,130
+Biryani,Friday,106,106,0,36,114
+Pizza,Friday,186,199,1,23,237
+Pasta,Wednesday,177,97,1,35,132
+Pizza,Tuesday,244,147,0,37,134
+French Fries,Tuesday,93,173,0,25,161
+Sandwich,Tuesday,190,85,1,23,122
+French Fries,Saturday,180,156,1,32,187
+Biryani,Friday,237,76,1,21,105
+Sandwich,Saturday,270,99,0,37,114
+Pasta,Sunday,282,50,1,29,91
+Sandwich,Friday,87,87,1,23,113
+Pasta,Sunday,141,149,0,37,172
+Sandwich,Saturday,169,44,1,27,83
+Pizza,Wednesday,258,21,0,40,21
+Burger,Tuesday,202,123,1,36,147
+Pasta,Friday,130,115,0,37,112
+Pizza,Monday,189,170,1,37,197
+Burger,Tuesday,248,118,1,29,152
+Pasta,Monday,89,168,1,36,188
+Sandwich,Tuesday,175,170,0,39,163
+Sandwich,Friday,192,73,0,25,83
+Pasta,Thursday,213,163,1,40,200
+Pasta,Sunday,278,116,1,38,154
+Pasta,Friday,95,184,1,31,206
+Pizza,Monday,113,55,0,34,63
+Pizza,Thursday,126,104,1,38,124
+Burger,Monday,145,175,1,37,210
+Pizza,Wednesday,145,186,1,39,218
+Pizza,Sunday,105,123,0,28,142
+Pasta,Friday,216,123,1,35,150
+French Fries,Saturday,253,150,0,26,163
+Pizza,Friday,252,81,0,33,71
+Pasta,Friday,281,43,0,20,46
+Pizza,Saturday,234,103,0,30,107
+Pasta,Monday,210,34,1,36,63
+French Fries,Sunday,201,118,0,37,136
+Pasta,Friday,89,37,1,38,73
+Sandwich,Sunday,197,29,0,31,30
+Sandwich,Thursday,101,50,0,21,54
+Pizza,Tuesday,291,71,1,36,98
+Burger,Monday,155,141,0,29,148
+Pasta,Sunday,106,21,1,27,68
+Pizza,Sunday,252,75,0,24,95
+French Fries,Wednesday,172,139,1,22,184
+Pizza,Monday,80,170,0,36,161
+Pizza,Wednesday,100,187,1,20,203
+Pasta,Wednesday,132,135,0,31,138
+Biryani,Monday,132,98,0,21,86
+Biryani,Friday,262,131,1,25,150
+French Fries,Saturday,293,159,0,24,176
+Pasta,Friday,273,104,0,31,92
+Biryani,Thursday,87,166,1,32,184
+Burger,Thursday,190,39,1,27,73
+Sandwich,Wednesday,274,31,0,33,27
+Pasta,Friday,131,199,0,20,202
+Burger,Tuesday,246,43,1,38,74
+Biryani,Thursday,143,173,0,24,174
+Biryani,Tuesday,100,114,0,27,128
+Pasta,Friday,300,46,0,32,39
+Pasta,Tuesday,157,77,0,25,92
+Pasta,Friday,220,20,1,29,54
+Burger,Monday,233,121,0,36,130
+Biryani,Friday,111,169,0,38,182
+Burger,Sunday,240,177,0,27,178
+French Fries,Friday,87,180,1,40,214
+Pizza,Friday,93,185,0,23,189
+Pasta,Wednesday,277,175,1,36,214
+Pizza,Sunday,292,175,0,38,182
+Biryani,Saturday,116,117,0,32,116
+Pasta,Sunday,187,81,0,34,93
+Burger,Sunday,145,198,1,26,238
+Sandwich,Friday,110,58,1,30,99
+Biryani,Monday,215,40,1,22,84
+Sandwich,Monday,268,115,0,40,118
+Burger,Sunday,142,90,0,31,115
+Burger,Monday,99,87,0,33,96
+Biryani,Thursday,110,63,1,25,101
+Sandwich,Thursday,162,110,0,36,108
+Burger,Saturday,220,105,0,25,117
+Burger,Wednesday,255,150,0,26,151
+French Fries,Wednesday,260,97,1,31,115
+Pizza,Tuesday,91,137,0,21,145
+Sandwich,Friday,93,82,1,30,106
+Sandwich,Friday,164,92,1,39,135
+Sandwich,Thursday,289,175,1,26,215
+French Fries,Thursday,217,87,1,25,129
+Biryani,Friday,242,50,0,36,53
+French Fries,Friday,115,165,0,40,172
+Pizza,Wednesday,173,112,0,29,107
+Pasta,Thursday,293,122,1,32,144
+Pizza,Wednesday,147,174,1,39,191
+Burger,Friday,268,54,0,39,68
+Burger,Monday,294,129,1,40,156
+Pasta,Monday,267,179,1,31,200
+Burger,Sunday,259,159,0,34,181
+Burger,Tuesday,147,121,0,21,134
+Pizza,Thursday,255,161,1,31,188
+French Fries,Thursday,166,20,0,25,31
+Pasta,Wednesday,116,29,1,37,67
+French Fries,Friday,174,85,1,23,130
+Sandwich,Wednesday,161,125,1,30,165
+Burger,Wednesday,82,51,0,28,61
+Pasta,Monday,81,30,1,22,72
+Pizza,Wednesday,112,102,1,33,135
+Biryani,Wednesday,287,167,0,35,163
+French Fries,Sunday,251,111,0,25,117
+Pasta,Saturday,215,179,1,27,230
+Pasta,Sunday,93,149,1,22,203
+French Fries,Tuesday,175,135,0,34,149
+French Fries,Monday,176,145,1,23,189
+Burger,Sunday,164,162,0,32,165
+Pasta,Thursday,119,98,1,20,119
+Burger,Thursday,268,89,0,35,77
+Burger,Saturday,200,199,0,24,194
+Biryani,Sunday,244,24,1,23,69
+Pizza,Sunday,204,36,1,23,65
+Burger,Monday,85,52,0,25,52
+Pasta,Wednesday,264,65,1,23,93
+Pizza,Saturday,190,100,0,24,125
+Sandwich,Wednesday,293,176,0,31,164
+French Fries,Monday,191,81,0,25,76
+Burger,Friday,105,26,1,31,58
+Pizza,Friday,275,52,0,35,49
+French Fries,Friday,254,37,0,27,28
+French Fries,Monday,296,200,1,32,223
+Pasta,Monday,201,118,0,38,116
+Pizza,Friday,215,74,0,39,80
+Biryani,Friday,165,153,1,31,181
+French Fries,Tuesday,270,176,0,38,161
+Pasta,Friday,88,130,0,28,125
+Burger,Monday,295,39,1,33,66
+Sandwich,Friday,116,191,0,33,197
+Pizza,Friday,214,89,0,40,88
+Pasta,Thursday,214,107,0,34,115
+Burger,Wednesday,281,34,0,38,21
+Biryani,Wednesday,267,180,1,36,219
+Pizza,Monday,295,197,0,37,202
+Pasta,Saturday,117,42,0,35,55
+French Fries,Tuesday,262,51,0,34,66
+Biryani,Friday,223,180,0,29,190
+Pizza,Sunday,295,184,1,33,211
+Sandwich,Sunday,128,149,1,20,188
