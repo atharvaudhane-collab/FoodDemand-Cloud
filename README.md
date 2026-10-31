@@ -76,7 +76,7 @@ Cloud-Based Food Order Demand Prediction System using Machine Learning and AWS.
 
 
 
-Run `python app.py` and open http://127.0.0.1:5000.
+Run `python app.py` and open http://52.64.49.106:5000
 
 
 
