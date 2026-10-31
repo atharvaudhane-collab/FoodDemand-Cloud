@@ -10,9 +10,7 @@ Cloud-Based Food Order Demand Prediction System using Machine Learning and AWS.
 
 
 
-[Click Here to Open FoodDemand Dashboard](http://32.236.226.74:5000)
-
-
+[Click Here to Open FoodDemand Dashboard](http://52.64.49.106:5000)
 
 ## Project Features
 
